@@ -1,11 +1,11 @@
-<h1 align="center">OpenEdu</h1> <br>
+<h1 align="center">Engage</h1> <br>
 <p>An Interactive Classroom, Nonprofit, Borderless University, Blockchain-Powered, that is controlled by society and not individuals.</p>
 
 <h2 align="center">Installing Dependencies and Running the platform</h2>
 
 <ui>
-  <li> git clone https://github.com/eppisai/opensourceEd.git </li>
-  <li>cd opensourceEd</li>
+  <li> git clone https://github.com/cigar-galaxy82/Engage_1.git </li>
+  <li>cd Engage_1</li>
   <li> npm i </li>
   <li>cd frontend </li>
   <li>npm i </li>
